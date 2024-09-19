@@ -1,4 +1,4 @@
-# Email Management System
+# Email Management System Testing
 
 This project is a simple Email Management System implemented in JavaScript with a basic HTML UI. It includes functionalities to add, list, and delete emails.
 
