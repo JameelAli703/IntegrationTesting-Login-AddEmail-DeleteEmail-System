@@ -23,7 +23,7 @@ This project is a simple Email Management System implemented in JavaScript with 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/email-management-system.git
+    git clone https://github.com/JameelAli703/IntegrationTesting-Login-AddEmail-DeleteEmail-System.git
     ```
 2. Navigate to the project directory:
     ```bash
